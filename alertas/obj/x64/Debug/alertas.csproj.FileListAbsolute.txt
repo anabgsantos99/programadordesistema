@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\repos\alertas\bin\x64\Debug\alertas.exe.config
+C:\Users\ana.bgsantos10\source\repos\alertas\bin\x64\Debug\alertas.exe
+C:\Users\ana.bgsantos10\source\repos\alertas\bin\x64\Debug\alertas.pdb
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.frmAlertas.resources
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.exe
+C:\Users\ana.bgsantos10\source\repos\alertas\obj\x64\Debug\alertas.pdb

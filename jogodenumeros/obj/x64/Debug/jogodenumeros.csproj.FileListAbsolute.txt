@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\bin\x64\Debug\jogodenumeros.exe.config
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\bin\x64\Debug\jogodenumeros.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\bin\x64\Debug\jogodenumeros.pdb
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.frmJogodeNumeros.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\jogodenumeros\obj\x64\Debug\jogodenumeros.pdb

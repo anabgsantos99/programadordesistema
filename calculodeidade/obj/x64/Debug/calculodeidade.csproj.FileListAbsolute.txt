@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.exe.config
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.pdb
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.frmCalculoIdade.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.pdb
