@@ -1,0 +1,10 @@
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe.config
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.pdb
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.AssemblyReference.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.frmVetor.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.Properties.Resources.resources
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.GenerateResource.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\ana.bgsantos10\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.pdb
